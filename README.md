@@ -5,6 +5,17 @@
 </h1>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />
+</p>
+---
 
 ## 🌟 Profile Summary
 An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.45/10)** with strong fundamentals in **embedded systems, PCB design, IoT applications, and software development**.  
@@ -87,6 +98,20 @@ An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.
 🔹 **ATM Management System (Academic)**  
 - Java-based project simulating deposit, withdrawal, authentication  
 
+---
+
+## 📈 Activity (glow card)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=yadnyesh-96&show_icons=true&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=yadnyesh-96&layout=compact&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyesh-96&theme=react-dark&area=true" width="800" />
+</p>
 ---
 
 
