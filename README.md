@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />
 </p>
----
+
 
 ## 🌟 Profile Summary
 An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.45/10)** with strong fundamentals in **embedded systems, PCB design, IoT applications, and software development**.  
@@ -112,12 +112,12 @@ An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyesh-96&theme=react-dark&area=true" width="800" />
 </p>
----
+
 
 
 ## 📫 Connect With Me  
 <p align="center">
-  <a href="mailto:yadnyneshdhangar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:"yadnyneshdhangar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yadnyesh-dhangar-24500026a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/yadnyesh-96"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
