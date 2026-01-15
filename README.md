@@ -114,8 +114,7 @@ An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.
 </p>
 
 
-
-## 📫 Connect With Me  
+  
 ## 📫 Connect With Me  
 <p align="center">
   <a href="mailto:yadnyneshdhangar@gmail.com">
