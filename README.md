@@ -101,11 +101,11 @@ An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.
 ---
 
 ## 📈 Activity (glow card)<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadnyesh-96&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yadnyesh-96&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnyesh-96&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnyesh-96&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
