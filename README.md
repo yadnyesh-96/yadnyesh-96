@@ -100,6 +100,11 @@ An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yadnyesh-96&theme=react&hide_border=true" />
+</p>
+
+
 ## 📈 Activity (glow card)<p align="center">
 
 <p align="center">
