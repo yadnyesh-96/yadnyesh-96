@@ -99,7 +99,7 @@ An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.
 - Java-based project simulating deposit, withdrawal, authentication  
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yadnyesh-96&theme=react&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yadnyesh-96)
 ---
 
 ## 📈 Activity (glow card)<p align="center">
