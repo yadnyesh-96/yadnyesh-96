@@ -124,7 +124,7 @@ An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/yadnyesh-96/yadnyesh-96/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/yadnyesh-96/yadnyesh-96/output/github-contribution-grid-snake-dark.svg)
 
 
 ⭐️ From [Yadnynesh Dhangar](https://github.com/yadnynesh-96)
