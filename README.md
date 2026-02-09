@@ -5,6 +5,17 @@
 </h1>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />
+</p>
+
 
 ## 🌟 Profile Summary
 An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.45/10)** with strong fundamentals in **embedded systems, PCB design, IoT applications, and software development**.  
@@ -88,16 +99,35 @@ An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.
 - Java-based project simulating deposit, withdrawal, authentication  
 
 ---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yadnyesh-96)
+---
 
+## 📈 Activity (glow card)<p align="center">
 
-## 📫 Connect With Me  
 <p align="center">
-  <a href="mailto:yadnyneshdhangar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yadnyesh-dhangar-24500026a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/yadnyesh-96"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyesh-96&theme=react-dark&area=true" width="800" />
 </p>
 
+
+  
+## 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:yadnyneshdhangar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/yadnyesh-dhangar-24500026a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/yadnyesh-96">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+
 ---
+
+![Snake animation](https://raw.githubusercontent.com/yadnyesh-96/yadnyesh-96/output/github-contribution-grid-snake-dark.svg)
+
 
 ⭐️ From [Yadnynesh Dhangar](https://github.com/yadnynesh-96)
 
