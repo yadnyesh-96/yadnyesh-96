@@ -1,141 +1,125 @@
-<!-- Profile Header -->
-<!-- Typing Intro -->
+<!-- =============================== -->
+<!--          PROFILE HEADER         -->
+<!-- =============================== -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=600&lines=Hello+🙎🏻‍♂️,+I'm+Yadnyesh+Dhangar;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hello+👋,+I'm+Yadnyesh+Dhangar;Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Microservices;Always+Learning+and+Building!" alt="Typing SVG" />
 </h1>
 
----
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />
+  <img src="https://komarev.com/ghpvc/?username=yadnyesh-96&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
 
-## 🌟 Profile Summary
-An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.45/10)** with strong fundamentals in **embedded systems, PCB design, IoT applications, and software development**.  
+## 👨‍💻 About Me
 
-💡 Experienced in **hardware projects** (Robotics, Circuit Design, IoT) and **software/web development** (UI/UX, backend integration, full-stack projects).  
-🏆 **Winner of Smart India Hackathon 2023 (AIR 1)**.  
-⚡ Passionate about building **innovative, reliable, and scalable solutions** in both electronics and software domains.  
+I am a **Java Full Stack Developer** with strong experience in developing scalable, secure, and high-performance web applications.
+
+I enjoy building clean backend architectures, designing RESTful APIs, and creating responsive user interfaces. I continuously improve my skills by learning modern technologies, writing maintainable code, and following software engineering best practices.
+
+- 💻 Java Full Stack Developer
+- 🌱 Currently exploring advanced Spring Boot, Microservices, and Cloud technologies
+- 🔍 Passionate about Software Architecture and Clean Code
+- 🤝 Enjoy collaborating in Agile teams
+- 🚀 Always eager to learn new technologies and solve real-world problems
 
 ---
 
-## 🛠️ Technical Skills  ⤵
+## 🚀 Tech Stack
 
-**💻 Programming & Software:**  
-`Core Java` `Python` `C` `C++` `HTML` `CSS` `JavaScript` `Django` `Spring Boot` `GitHub` `Postman`  
-
-**⚡ Electronics & Hardware Tools:**  
-`Arduino IDE` `Keil uVision` `Flash Magic` `MATLAB (Basic)` `EasyEDA` `Multisim (Basic)`  
-
-**🔬 Electronics Concepts:**  
-`Circuit Design` `PCB Schematic Capture` `Component Placement` `Signals & Systems` `Troubleshooting`  
-
-**📡 Domains of Interest:**  
-`Embedded Systems` `IoT` `Microcontrollers (Arduino, 8051)` `Raspberry Pi (Model 3)` `Control Systems`  
-
-**🎨 Other Tools:**  
-`Adobe Photoshop` `Adobe Illustrator`  
-
----
-
-## 🤝 Soft Skills  
- Problem-Solving & Logical Thinking  
-✔️ Teamwork & Collaboration  
-✔️ Adaptability & Resilience  
-✔️ Communication & Presentation  
-✔️ Startup-Oriented & Self-Motivated  
-
----
-
-## 🎓 Education  
-- **B.E. Electronics & Telecommunication** – Dr. Vitthalrao Vikhe Patil College of Engineering, Ahmednagar (SPPU) | 2025 | **CGPA: 7.45 / 10**  
-- **HSC** – Maharashtra State Board, 2021 | **81.00%**  
-- **SSC** – Maharashtra State Board, 2019 | **73.20%**  
-
----
-
-## 🏆 Achievements & Certifications  
-- 🥇 **Winner – Smart India Hackathon 2023 (AIR 1)**  
-- 🚀 Selected for **SPPU Startup Olympiad 2025** (Centre for Innovation, Incubation & Entrepreneurship)  
-- 🎓 **AICTE IDE Bootcamp Phase I & II** – Represented startup idea (Nagpur & Visakhapatnam)  
-- 📜 **Cybersecurity & Ethical Hacking Awareness Program** (AICTE, 2024)  
-
----
-
-## 💼 Internship Experience  
-
-**Full Stack Developer Intern** | *TechnoGrowth Software Solutions Pvt. Ltd.*  
-📅 Dec 2023 – Jan 2024  
-- Built a **College Portal** using **Java Spring Boot + SQL backend** and **Angular + HTML/CSS/JS frontend**.  
-- Performed API testing with Postman and integrated services.  
-
-**Project Manager Intern** | *Flares Solar Energy LLP*  
-📅 Jan 2024 – Feb 2024  
-- Coordinated on-site activities for **solar energy installations**.  
-- Gained exposure to **real-time project handling & team management**.  
-
----
-
-## 📚 Academic Projects  
-
-🔹 **Line Following Robot** (Jan 2024 – May 2024)  
-- Arduino Mega + IR Sensors + L293D Motor Driver  
-- Implemented **PID control** for accuracy  
-- Designed PCB layout using **EasyEDA**  
-
-🔹 **Alumni Management Portal** (May 2025)  
-- Web-based alumni management system  
-- **UI/UX frontend**: HTML, CSS, JS  
-- **Backend**: Python Django (team contribution)  
-
-🔹 **ATM Management System (Academic)**  
-- Java-based project simulating deposit, withdrawal, authentication  
-
----
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yadnyesh-96)
----
-
-## 📈 Activity (glow card)<p align="center">
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyesh-96&theme=react-dark&area=true" width="800" />
+### 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-
-  
-## 📫 Connect With Me  
-<p align="center">
-  <a href="mailto:yadnyneshdhangar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/yadnyesh-dhangar-24500026a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/yadnyesh-96">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+### 🎨 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
+<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 </p>
 
+### ⚙ Backend
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring"/>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+</p>
+
+### 🗄 Database
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+</p>
+
+### 🛠 Tools & Technologies
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide"/>
+</p>
 
 ---
 
+## 🌟 Professional Summary
 
-# ■ My GitHub
+- ✔ Strong knowledge of Core Java and modern Java development
+- ✔ Experience building RESTful APIs and Microservices
+- ✔ Skilled in Spring Boot and Spring MVC
+- ✔ Knowledge of React.js and Angular for responsive web applications
+- ✔ Familiar with SQL database design and optimization
+- ✔ Understanding of Agile/Scrum development practices
+- ✔ Passionate about writing clean, maintainable, and scalable code
+- ✔ Strong analytical, problem-solving, and teamwork abilities
+
+---
+
+## 📫 Connect With Me
+
 <p align="center">
-<img src="assets/space-shooter.gif" />
+
+<a href="mailto:yadnyeshdhangar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yadnyesh-dhangar-24500026a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yadnyesh-96">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
+---
 
-⭐️ From [Yadnynesh Dhangar](https://github.com/yadnynesh-96)
+# 🚀 Let's Build Something Amazing!
 
+<p align="center">
+<img src="assets/space-shooter.gif" width="700"/>
+</p>
 
+<p align="center">
+<i>"Code. Learn. Improve. Repeat."</i>
+</p>
 
+---
 
-
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories.
+</p>
