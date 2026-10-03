@@ -63,4 +63,4 @@ I care about clean architecture, maintainable code, and shipping reliable softwa
 
 ---
 
-<h3 align="center">💡 Words I Code By</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1500&color=0A66C2&center=true&vCenter=true&width=820&height=40&repeat=true&lines=Make+it+work%2C+make+it+right%2C+make+it+fast.+-+Kent+Beck;Simplicity+is+prerequisite+for+reliability.+-+Edsger+Dijkstra;Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds;First%2C+solve+the+problem.+Then%2C+write+the+code.+-+John+Johnson;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.+-+Cory+House;Before+software+can+be+reusable+it+first+has+to+be+usable.+-+Ralph+Johnson;Debugging+is+twice+as+hard+as+writing+the+code+in+the+first+place.+-+Brian+Kernighan" alt="Rotating technical quotes"/> </p>
+<p align="center"> <i>"Truth can only be found in one place: the code."</i><br/> <sub>— Robert C. Martin</sub> </p>
