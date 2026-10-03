@@ -1,125 +1,68 @@
-<!-- =============================== -->
-<!--          PROFILE HEADER         -->
-<!-- =============================== -->
+<h1 align="center">Hi, I'm Yadnyesh Dhangar 👋</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hello+👋,+I'm+Yadnyesh+Dhangar;Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Microservices;Always+Learning+and+Building!" alt="Typing SVG" />
-</h1>
+<h3 align="center">Java Full Stack Developer · Spring Boot · Microservices · React.js</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yadnyesh-96&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://yadnyesh-96.github.io"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/yadnyesh-dhangar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:yadnyesh.in@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Java Full Stack Developer** with strong experience in developing scalable, secure, and high-performance web applications.
+Java Full Stack Developer with **3+ years of experience** building secure REST APIs and Spring Boot microservices with React.js and Angular front ends for **banking and healthcare** domains.
 
-I enjoy building clean backend architectures, designing RESTful APIs, and creating responsive user interfaces. I continuously improve my skills by learning modern technologies, writing maintainable code, and following software engineering best practices.
+I care about clean architecture, maintainable code, and shipping reliable software in Agile teams. I also use AI coding tools such as GitHub Copilot and Claude Code to speed up development, testing, and code reviews.
 
-- 💻 Java Full Stack Developer
-- 🌱 Currently exploring advanced Spring Boot, Microservices, and Cloud technologies
-- 🔍 Passionate about Software Architecture and Clean Code
-- 🤝 Enjoy collaborating in Agile teams
-- 🚀 Always eager to learn new technologies and solve real-world problems
+- 🔭 Currently deepening my knowledge of Spring Cloud, event-driven microservices, and AWS
+- 🤖 Exploring AI-assisted development and LLM API integration
+- 💼 Open to full-time Java Full Stack opportunities
 
 ---
 
-## 🚀 Tech Stack
+## 🏆 Highlights
 
-### 💻 Programming Languages
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-### 🎨 Frontend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
-<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-</p>
-
-### ⚙ Backend
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring"/>
-<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-</p>
-
-### 🗄 Database
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
-</p>
-
-### 🛠 Tools & Technologies
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide"/>
-</p>
+- 🥇 **Winner (AIR 1), Smart India Hackathon 2023**: built an AI-powered E-Waste Management System, selected as the top solution nationally.
+- 🎓 **College Alumni Management Portal**: full-stack application officially adopted by Dr. VVP College of Engineering for alumni networking, records, and engagement.
 
 ---
 
-## 🌟 Professional Summary
+## 🛠 Tech Stack
 
-- ✔ Strong knowledge of Core Java and modern Java development
-- ✔ Experience building RESTful APIs and Microservices
-- ✔ Skilled in Spring Boot and Spring MVC
-- ✔ Knowledge of React.js and Angular for responsive web applications
-- ✔ Familiar with SQL database design and optimization
-- ✔ Understanding of Agile/Scrum development practices
-- ✔ Passionate about writing clean, maintainable, and scalable code
-- ✔ Strong analytical, problem-solving, and teamwork abilities
+| Area | Technologies |
+|------|--------------|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ---
 
-## 📫 Connect With Me
+## 💼 What I've Built
+
+| Domain | What it does | Stack |
+|--------|--------------|-------|
+| 🏦 **Banking payments platform** | Spring Boot microservices for deposits, withdrawals, bill payments, and demand drafts, with secure REST APIs and customer self-service UIs | Java, Spring Boot, JPA/Hibernate, React, Angular, MySQL, AWS |
+| 📈 **Trading & audit management system** | Hexagonal-architecture microservices for share transactions, audit trails, and user provisioning | Java, Spring Cloud, Hibernate, React, Oracle, Jenkins |
+| 🏥 **HIPAA-compliant EHR platform** | Patient management, appointment scheduling, and lab integration for a healthcare provider | Java, Spring Boot, React, Angular, MySQL, AWS |
+| ♻️ **E-Waste Management System** | AI-powered solution, Smart India Hackathon 2023 national winner | See pinned repositories |
+| 🎓 **College Alumni Portal** | Alumni networking, records, and engagement for an engineering college | See pinned repositories |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<a href="mailto:yadnyeshdhangar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yadnyesh-dhangar-24500026a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yadnyesh-96">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🚀 Let's Build Something Amazing!
-
-<p align="center">
-<img src="assets/space-shooter.gif" width="700"/>
-</p>
-
-<p align="center">
-<i>"Code. Learn. Improve. Repeat."</i>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yadnyesh-96&show_icons=true&hide_border=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnyesh-96&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider giving a star to my repositories.
+  <i>Let's connect and build something reliable together.</i>
 </p>
