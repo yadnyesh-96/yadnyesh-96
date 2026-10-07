@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About
 
-Software Developer with **3+ years of experience** building scalable web applications and backend services for **banking and healthcare** domains.
+Software Developer with **hand's on experience** building scalable web applications and backend services for **banking and healthcare** domains.
 
 I work with REST APIs, microservices, React and Angular front ends, SQL databases, and AWS, in Agile teams with CI/CD. I also use AI coding tools like GitHub Copilot and Claude Code to speed up development and testing.
 
