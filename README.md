@@ -27,18 +27,6 @@ I work with REST APIs, microservices, React and Angular front ends, SQL database
 
 ---
 
-## 🛠 Tech Stack
-
-| Area | Technologies |
-|------|--------------|
-| **Backend** | Java, Spring Boot, Spring Security, Spring Cloud, Hibernate/JPA, REST APIs, JWT |
-| **Frontend** | React.js, Angular, TypeScript, JavaScript, HTML5, CSS3 |
-| **Databases** | MySQL, PostgreSQL, Oracle |
-| **Cloud & DevOps** | AWS, Docker, Jenkins, GitHub Actions, Git, Maven |
-| **Tools** | Postman, Swagger, JIRA, IntelliJ IDEA, VS Code |
-
----
-
 ## 💼 What I've Built
 
 - 🏦 **Banking payments platform**: microservices for deposits, withdrawals, bill payments, and demand drafts, with secure REST APIs and self-service UIs
